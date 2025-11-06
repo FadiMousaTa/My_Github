@@ -1,0 +1,14 @@
+الان مرحلة رفع الملفات لل ريمةت ريبو 
+
+ Add ---> commit ---> push
+
+ 1: git add (name file)
+
+ * لو اعملت اضافة لملف بالغلط وبدي ارجعه كيف بساوي
+
+2 : git commit -m"اكتب ملاحظاتك واي اشي بدك اياه"
+في الكومت برفع كلشي اعملتله add
+
+3 : git push origin main
+origin remote name
+main branch name
